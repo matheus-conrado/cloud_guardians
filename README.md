@@ -1,5 +1,13 @@
 # Cloud Guardians
-Este repositório contem todo o projeto de engenharia de dados do grupo Cloud Guardians ensinado na academia de Cloud AWS oferecido pela Accenture e Gama Academy. Abaixo segue as instruções para que o projeto possa funcionar corretamente:
+Este repositório contem todo o projeto de engenharia de dados do grupo Cloud Guardians ensinado na academia de Cloud AWS oferecido pela Accenture e Gama Academy, sendo integrantes do grupo:
+* Carlos Alberto
+* Gustavo Galisa
+* Iara Chagas
+* Luis Suzuki
+* Matheus Guilherme
+* Steffany Dias
+
+Abaixo segue as instruções para que o projeto possa funcionar corretamente:
 
 ## Instalação de Dependências:
 Você pode instalar corretamente todos as dependências, rodando o seguinte comando na raiz do projeto:
